@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052008232546181627",
+    "created_at": "2026-05-06T13:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052015205488689340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853967550381445127",
+          "start": 0,
+          "username": "Ahalfhediboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052015205488689340",
+    "in_reply_to_user_id": "1853967550381445127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052008232546181627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ahalfhediboy 我跳海了请支持我！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052008227705921538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoynHCXIAIl44V.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052008232546181627",
+        "created_at": "2026-05-06T13:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052015205488689340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Ahalfhediboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052015205488689340",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052008232546181627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ahalfhediboy 我跳海了请支持我！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052008227705921538"
+          ]
+        },
+        "author_id": "1853967550381445127",
+        "conversation_id": "2052008232546181627",
+        "created_at": "2026-05-06T12:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052008232546181627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbwedOuCmM",
+              "end": 33,
+              "expanded_url": "https://x.com/Ahalfhediboy/status/2052008232546181627/photo/1",
+              "media_key": "3_2052008227705921538",
+              "start": 10,
+              "url": "https://t.co/EbwedOuCmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052008232546181627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跳海了请支持我！ https://t.co/EbwedOuCmM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 454,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1111
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "關於愛的定義",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bok86827",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bok86827",
+                "start": 0,
+                "url": "https://t.co/Ltcqjj6lYS"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/116",
+        "name": "輝く少年",
+        "pinned_tweet_id": "2045238067930206335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040433084785360896/FyPaKSp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 374,
+          "like_count": 4348,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1278
+        },
+        "url": "https://t.co/Ltcqjj6lYS",
+        "username": "Ahalfhediboy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052089537707311220",
+    "created_at": "2026-05-07T02:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052210149167927631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985759640328773632",
+          "start": 0,
+          "username": "El_ketchupp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052210149167927631",
+    "in_reply_to_user_id": "1985759640328773632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052089537707311220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@El_ketchupp It’s the gift you gave to ur future self😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052089537707311220",
+        "created_at": "2026-05-07T02:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052210149167927631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985759640328773632",
+              "start": 0,
+              "username": "El_ketchupp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052210149167927631",
+        "in_reply_to_user_id": "1985759640328773632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052089537707311220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@El_ketchupp It’s the gift you gave to ur future self😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985759640328773632",
+        "conversation_id": "2052089537707311220",
+        "created_at": "2026-05-06T18:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052089537707311220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "shtwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052089537707311220",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I JUST FOUND 3 RAZORS ON THE FLOOR???? AM I GIFTED??? #shtwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 468,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1136
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T17:24:23.000Z",
+        "description": "aaaaaa I'm dying //\n\nthey/them //\n\nvent/blog //\n\nminor // \n\nDNI: shotacon/lolicon, weirdos, wannabe sugar daddies, fetishizer, normaltwt",
+        "id": "1985759640328773632",
+        "name": "spiteful bitch of the shed",
+        "pinned_tweet_id": "2040904992450650611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040904407324213248/6c9fQH_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 214,
+          "like_count": 4652,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "El_ketchupp",
+        "verified": false
+      }
+    ]
+  }
+}

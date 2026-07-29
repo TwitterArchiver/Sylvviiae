@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052388527678136334",
+    "created_at": "2026-05-07T14:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052390315248754855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1975275228277137408",
+          "start": 0,
+          "username": "xftsko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052390315248754855",
+    "in_reply_to_user_id": "1975275228277137408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052388527678136334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xftsko MY IDEAL LIFESTYLE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052388527678136334",
+        "created_at": "2026-05-07T14:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052390315248754855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1975275228277137408",
+              "start": 0,
+              "username": "xftsko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052390315248754855",
+        "in_reply_to_user_id": "1975275228277137408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052388527678136334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xftsko MY IDEAL LIFESTYLE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975275228277137408",
+        "conversation_id": "2052388527678136334",
+        "created_at": "2026-05-07T14:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052388527678136334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052388527678136334",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i deadass stay in bed all day bro😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 465,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1147
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T19:01:45.000Z",
+        "description": "18 //🍨// i block freely // atheist @xshaoth -priv / pro recovery! // 2nd CHUD acc @glitterydolly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "xshaoth"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "glitterydolly"
+              }
+            ]
+          }
+        },
+        "id": "1975275228277137408",
+        "location": "my room🧁",
+        "name": "coco💭",
+        "pinned_tweet_id": "2041236932257071601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046332175549964288/IeninUCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1501,
+          "like_count": 80513,
+          "listed_count": 50,
+          "media_count": 511,
+          "tweet_count": 10171
+        },
+        "username": "xftsko",
+        "verified": false
+      }
+    ]
+  }
+}

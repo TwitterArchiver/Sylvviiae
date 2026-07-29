@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2075367513555435665",
+    "created_at": "2026-07-10T06:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075464367542599788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1793001753568485376",
+          "start": 0,
+          "username": "YMNKsos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075464367542599788",
+    "in_reply_to_user_id": "1793001753568485376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075463018318872668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMNKsos 1.8r一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2075367513555435665",
+        "created_at": "2026-07-10T06:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075464367542599788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1793001753568485376",
+              "start": 0,
+              "username": "YMNKsos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075464367542599788",
+        "in_reply_to_user_id": "1793001753568485376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075463018318872668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMNKsos 1.8r一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793001753568485376",
+        "conversation_id": "2075367513555435665",
+        "created_at": "2026-07-10T06:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075463018318872668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075463018318872668",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075367513555435665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 1.8r😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 885,
+          "like_count": 412,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1623
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T19:32:20.000Z",
+        "description": "已幸福，再来骚扰直接杀鼠。法鼠！全家鼠！\n泛性恋，顺直也鼠，顺直公畜更是鼠完了😍",
+        "id": "1793001753568485376",
+        "location": "2.3km🚪188/288/520",
+        "name": "＞𐋣＜ 😽💖🏳️‍🌈✨",
+        "pinned_tweet_id": "1918517368680329280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 245,
+          "like_count": 5452,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 4073
+        },
+        "url": "",
+        "username": "YMNKsos",
+        "verified": false
+      }
+    ]
+  }
+}

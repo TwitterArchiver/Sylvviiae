@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052117849108615517",
+    "created_at": "2026-05-07T00:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052179604891459590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944718307808206848",
+          "start": 0,
+          "username": "YukinoTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052179604891459590",
+    "in_reply_to_user_id": "1944718307808206848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052117849108615517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinoTxT 赞赏码好像过期了诶🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2052117842745847808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqWTi4bcAASJ2A.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052117849108615517",
+        "created_at": "2026-05-07T00:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052179604891459590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944718307808206848",
+              "start": 0,
+              "username": "YukinoTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052179604891459590",
+        "in_reply_to_user_id": "1944718307808206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052117849108615517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinoTxT 赞赏码好像过期了诶🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052117842745847808"
+          ]
+        },
+        "author_id": "1944718307808206848",
+        "conversation_id": "2052117849108615517",
+        "created_at": "2026-05-06T20:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052117849108615517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hU9j9HH2I",
+              "end": 120,
+              "expanded_url": "https://x.com/YukinoTxT/status/2052117849108615517/photo/1",
+              "media_key": "3_2052117842745847808",
+              "start": 97,
+              "url": "https://t.co/3hU9j9HH2I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052117849108615517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算等有钱了买个练纹身的小套装自学一下然后给自己扎着玩～～因为感觉生活好像没啥兴趣就这个有点让我除了打游戏吃药以外还有点别的消遣。有没有好心人给我打赏直到我凑齐300꜀(^. .^꜀  )꜆੭ https://t.co/3hU9j9HH2I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 466,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T11:19:20.000Z",
+        "description": "*^^* 我是小寻/Yukino ❕自残od自毁精神病❕\n🤍🤍宝贝 @futi999139732🤍🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "futi999139732"
+              }
+            ]
+          }
+        },
+        "id": "1944718307808206848",
+        "name": "好想吃🫐巴菲",
+        "pinned_tweet_id": "1999183040820736078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041186757178494976/zAvzljN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 132,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "YukinoTxT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2061143960383279528",
+    "created_at": "2026-06-01T03:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T04:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061281655013433433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1998564789539463168",
+          "start": 0,
+          "username": "kttywoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061281655013433433",
+    "in_reply_to_user_id": "1998564789539463168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061143960383279528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kttywoyo Omg why ur dads so toxic twin🥲 pls run at all costs when you no longer need familial support 🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2061143960383279528",
+        "created_at": "2026-06-01T03:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061281655013433433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1998564789539463168",
+              "start": 0,
+              "username": "kttywoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061281655013433433",
+        "in_reply_to_user_id": "1998564789539463168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061143960383279528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kttywoyo Omg why ur dads so toxic twin🥲 pls run at all costs when you no longer need familial support 🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998564789539463168",
+        "conversation_id": "2061143960383279528",
+        "created_at": "2026-05-31T17:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061143960383279528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061143960383279528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i decided to open up to my dad about my ED and literally not even 5 seconds after he tells me my legs are big?? then he starts talking to me about his diet as if its the same fucking thing."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 756,
+          "like_count": 294,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 1373
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:26:01.000Z",
+        "description": "۶ৎ 19 ✮ #우영’s kitty ✮ autistic ✮ shedtwt ✮ ifb! ✮ no dni js dont be weird thanks ! ۶ৎ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 8,
+                "tag": "우영"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wooyo.⠀",
+                "end": 23,
+                "expanded_url": "http://wooyo.xn--6ii",
+                "start": 0,
+                "url": "https://t.co/yG9kmDJja4"
+              }
+            ]
+          }
+        },
+        "id": "1998564789539463168",
+        "location": "he/him 🏳️‍⚧️ | bmi FAT",
+        "name": "mae ٠࣪⭑ shedtwt",
+        "pinned_tweet_id": "2040544065834414197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033703619153780737/Jh7__CSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 46,
+          "like_count": 374,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/yG9kmDJja4",
+        "username": "kttywoyo",
+        "verified": false
+      }
+    ]
+  }
+}

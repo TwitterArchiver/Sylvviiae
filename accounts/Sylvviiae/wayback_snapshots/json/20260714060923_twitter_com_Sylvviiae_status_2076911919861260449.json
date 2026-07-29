@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2076712115797451105",
+    "created_at": "2026-07-14T06:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076911919861260449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430192552532090880",
+          "start": 0,
+          "username": "shoshannim86"
+        },
+        {
+          "end": 26,
+          "id": "1420685458204364806",
+          "start": 14,
+          "username": "acarnalrose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076911919861260449",
+    "in_reply_to_user_id": "1430192552532090880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076901939296825582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoshannim86 @acarnalrose 袜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2076712115797451105",
+        "created_at": "2026-07-14T06:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076911919861260449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430192552532090880",
+              "start": 0,
+              "username": "shoshannim86"
+            },
+            {
+              "end": 26,
+              "id": "1420685458204364806",
+              "start": 14,
+              "username": "acarnalrose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076911919861260449",
+        "in_reply_to_user_id": "1430192552532090880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076901939296825582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoshannim86 @acarnalrose 袜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430192552532090880",
+        "conversation_id": "2076712115797451105",
+        "created_at": "2026-07-14T05:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076901939296825582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            },
+            {
+              "end": 23,
+              "id": "1420685458204364806",
+              "start": 11,
+              "username": "acarnalrose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076901939296825582",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076890447683964996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae @acarnalrose 哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 902,
+          "like_count": 427,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1664
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T15:37:36.000Z",
+        "description": "愛是恆久忍耐；又有恩慈；愛是不嫉妒；愛是不自誇，不張狂， 不做害羞的事，不求自己的益處，不輕易發怒，不計算人的惡， 不喜歡不義，只喜歡真理。",
+        "id": "1430192552532090880",
+        "location": "宛平南路600号",
+        "name": "Shoshannim",
+        "pinned_tweet_id": "1646881606123278336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012593895167709184/N6B_fkWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 586,
+          "like_count": 39710,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 2117
+        },
+        "url": "",
+        "username": "shoshannim86",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T09:59:51.000Z",
+        "description": "等待一場無妄的等待，買三十罐臨期的鳳梨罐頭，像咒語，像催眠。\n沉睡：@Puppyprayforluv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "Puppyprayforluv"
+              }
+            ]
+          }
+        },
+        "id": "1420685458204364806",
+        "location": "WIRED",
+        "name": "acarnalrose「מֶרְיָהוּ」",
+        "pinned_tweet_id": "1989831074155819329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421173311413882880/prmXuuE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 445,
+          "like_count": 5092,
+          "listed_count": 5,
+          "media_count": 574,
+          "tweet_count": 4282
+        },
+        "url": "",
+        "username": "acarnalrose",
+        "verified": true
+      }
+    ]
+  }
+}

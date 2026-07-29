@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2056207510252753363",
+    "created_at": "2026-05-18T02:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056207510252753363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1957696743560085507",
+          "start": 3,
+          "username": "Arusoi29615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056207510252753363",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7004
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055723862260658358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arusoi29615: I think my life will end in suicide\nI'm not quite sure when, maybe it won't, but all roads seem to lead me there"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2056207510252753363",
+        "created_at": "2026-05-18T02:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056207510252753363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1957696743560085507",
+              "start": 3,
+              "username": "Arusoi29615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056207510252753363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7004
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055723862260658358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arusoi29615: I think my life will end in suicide\nI'm not quite sure when, maybe it won't, but all roads seem to lead me there"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957696743560085507",
+        "conversation_id": "2055723862260658358",
+        "created_at": "2026-05-16T18:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055723862260658358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055723862260658358",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1564,
+          "impression_count": 257614,
+          "like_count": 24360,
+          "quote_count": 192,
+          "reply_count": 107,
+          "retweet_count": 7004
+        },
+        "reply_settings": "everyone",
+        "text": "I think my life will end in suicide\nI'm not quite sure when, maybe it won't, but all roads seem to lead me there"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 565,
+          "like_count": 267,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 1253
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T06:51:10.000Z",
+        "description": "she/her\n\n19\n\nDIY HRT: 2025-02-28\n\n🇲🇩\n\nLeftist🌹\n\n🇵🇸🇺🇦🇸🇩🇨🇩🌍\n\n🔞\n\nhttps://t.co/5U8OojIkpN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "arusoi.straw.page",
+                "end": 85,
+                "expanded_url": "https://arusoi.straw.page",
+                "start": 62,
+                "url": "https://t.co/5U8OojIkpN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "diyhrt.info",
+                "end": 23,
+                "expanded_url": "https://diyhrt.info/",
+                "start": 0,
+                "url": "https://t.co/Wle44cFi2e"
+              }
+            ]
+          }
+        },
+        "id": "1957696743560085507",
+        "location": "🇮🇪",
+        "name": "Arusoi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055599038049783808/63eGXwlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 1351,
+          "like_count": 38667,
+          "listed_count": 9,
+          "media_count": 2133,
+          "tweet_count": 9845
+        },
+        "url": "https://t.co/Wle44cFi2e",
+        "username": "Arusoi29615",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2055027122096496794",
+    "created_at": "2026-05-14T20:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T21:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055027122096496794"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055027122096496794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看了你的遗书，觉得你很有才华，你精通时尚，各种联名限定潮牌文化信手拈来，对文学、哲学和艺术也颇有研究，对哥特文化和死亡也有独到见解，更是让大家看到了你阴暗又大胆的意淫，你甚至已经找了个班上，但是我想问下：你真的死了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2055027122096496794",
+        "created_at": "2026-05-14T20:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055027122096496794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055027122096496794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了你的遗书，觉得你很有才华，你精通时尚，各种联名限定潮牌文化信手拈来，对文学、哲学和艺术也颇有研究，对哥特文化和死亡也有独到见解，更是让大家看到了你阴暗又大胆的意淫，你甚至已经找了个班上，但是我想问下：你真的死了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 520,
+          "like_count": 250,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 1213
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

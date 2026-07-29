@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052179112035312104",
+    "created_at": "2026-05-07T00:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T01:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052180718340694238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968412895219212289",
+          "start": 0,
+          "username": "llicyxwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052180718340694238",
+    "in_reply_to_user_id": "1968412895219212289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052179112035312104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llicyxwo 学校扫码了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052179112035312104",
+        "created_at": "2026-05-07T00:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052180718340694238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968412895219212289",
+              "start": 0,
+              "username": "llicyxwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052180718340694238",
+        "in_reply_to_user_id": "1968412895219212289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052179112035312104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llicyxwo 学校扫码了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968412895219212289",
+        "conversation_id": "2052179112035312104",
+        "created_at": "2026-05-07T00:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052179112035312104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052179112035312104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校死妈了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 467,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1134
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T20:33:18.000Z",
+        "description": "自言自语中/ip🇬🇧/女的泛性恋/adhd bd+bpd/赛博八字infp4w5 SX/SP 欢迎找我玩fo都会回很温良可以随时找我聊天 专注经营精神病生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/effloresce365",
+                "end": 23,
+                "expanded_url": "https://ngl.link/effloresce365",
+                "start": 0,
+                "url": "https://t.co/ip3B8y8yM2"
+              }
+            ]
+          }
+        },
+        "id": "1968412895219212289",
+        "location": "🏳️‍🌈London",
+        "name": "桐原",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049308298118299648/jH7_0Rex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 39,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/ip3B8y8yM2",
+        "username": "llicyxwo",
+        "verified": false
+      }
+    ]
+  }
+}

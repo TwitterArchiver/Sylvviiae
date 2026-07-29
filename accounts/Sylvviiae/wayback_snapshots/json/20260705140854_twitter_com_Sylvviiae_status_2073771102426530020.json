@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2073761524699824199",
+    "created_at": "2026-07-05T14:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073771102426530020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073771102426530020",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073770450170298655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 爆炒木桶饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2073761524699824199",
+        "created_at": "2026-07-05T14:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073771102426530020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073771102426530020",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073770450170298655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 爆炒木桶饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2073761524699824199",
+        "created_at": "2026-07-05T14:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073770450170298655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073770450170298655",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073761524699824199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 是谁香（想）奇（骑）啊？怎么不说话🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 897,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1598
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "mtx | INTP | 泛性恋 | 不含糖 | 精神良好 | 称呼小千就好💛🤍💜🖤sub 称他/她均可 想互fo 可以做心理委员喵（虽然满脑子黄色废料喵）\n\n喜欢sakanaction，喜欢研究各种数码产品和电子软硬件（很爱苹果的风格和Linux的开放），常有科幻点子👍身高1.77体重55kg，好虚弱",
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️qian🏳️‍🌈🎹小千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956958446500364288/fCbmnxDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 282,
+          "like_count": 624,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": false
+      }
+    ]
+  }
+}

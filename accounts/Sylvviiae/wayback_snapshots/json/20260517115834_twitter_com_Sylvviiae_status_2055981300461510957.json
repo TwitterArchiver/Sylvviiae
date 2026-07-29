@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2055981300461510957",
+    "created_at": "2026-05-17T11:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055981300461510957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055981300461510957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分开与否不是我的自由意志能决定的。我们之间的羁绊太浅了，浅到嫉恨、隐瞒和猜疑可以完全抹除我们为相互接近做出的努力；浅到只要我再发一次病，我们就可以断得干干净净。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2055981300461510957",
+        "created_at": "2026-05-17T11:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055981300461510957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055981300461510957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分开与否不是我的自由意志能决定的。我们之间的羁绊太浅了，浅到嫉恨、隐瞒和猜疑可以完全抹除我们为相互接近做出的努力；浅到只要我再发一次病，我们就可以断得干干净净。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 563,
+          "like_count": 265,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 1250
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

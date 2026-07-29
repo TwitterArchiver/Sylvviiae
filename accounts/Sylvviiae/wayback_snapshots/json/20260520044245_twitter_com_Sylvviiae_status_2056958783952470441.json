@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056958773823262720"
+      ]
+    },
+    "author_id": "1902217890738401281",
+    "conversation_id": "2056913521338732741",
+    "created_at": "2026-05-20T04:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056958783952470441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039205000727896065",
+          "start": 0,
+          "username": "clarisita_483"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d1bH78sRO2",
+          "end": 42,
+          "expanded_url": "https://x.com/Sylvviiae/status/2056958783952470441/photo/1",
+          "media_key": "3_2056958773823262720",
+          "start": 19,
+          "url": "https://t.co/d1bH78sRO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056958783952470441",
+    "in_reply_to_user_id": "2039205000727896065",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056913521338732741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clarisita_483 wow https://t.co/d1bH78sRO2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_2056958773823262720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvJG0db0AAiimq.jpg",
+        "width": 1819
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2056913125429927936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuflu8W4AAGp0W.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2056913125442527232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIuflu_XIAAUTWz.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056958773823262720"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2056913521338732741",
+        "created_at": "2026-05-20T04:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056958783952470441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039205000727896065",
+              "start": 0,
+              "username": "clarisita_483"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d1bH78sRO2",
+              "end": 42,
+              "expanded_url": "https://x.com/Sylvviiae/status/2056958783952470441/photo/1",
+              "media_key": "3_2056958773823262720",
+              "start": 19,
+              "url": "https://t.co/d1bH78sRO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056958783952470441",
+        "in_reply_to_user_id": "2039205000727896065",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056913521338732741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clarisita_483 wow https://t.co/d1bH78sRO2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056913125429927936",
+            "3_2056913125442527232"
+          ]
+        },
+        "author_id": "2039205000727896065",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2056913521338732741",
+        "created_at": "2026-05-20T01:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056913521338732741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A3LtdXqqLg",
+              "end": 223,
+              "expanded_url": "https://x.com/clarisita_483/status/2056913521338732741/photo/1",
+              "media_key": "3_2056913125429927936",
+              "start": 200,
+              "url": "https://t.co/A3LtdXqqLg"
+            },
+            {
+              "display_url": "pic.x.com/A3LtdXqqLg",
+              "end": 223,
+              "expanded_url": "https://x.com/clarisita_483/status/2056913521338732741/photo/1",
+              "media_key": "3_2056913125442527232",
+              "start": 200,
+              "url": "https://t.co/A3LtdXqqLg"
+            },
+            {
+              "display_url": "x.com/Su1c1d333b0y/s…",
+              "end": 247,
+              "expanded_url": "https://twitter.com/Su1c1d333b0y/status/2056275106586911067",
+              "start": 224,
+              "url": "https://t.co/6Bw97EVnhO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056913521338732741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056275106586911067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bingo!\nI have no anger issue because I dislike conflicts.\nI don't go to therapy for many reasons- trust issues, financial burden, travel to other cities and I don't thinks therapists can help me etc. https://t.co/A3LtdXqqLg https://t.co/6Bw97EVnhO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 677,
+          "like_count": 279,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1313
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T04:56:02.000Z",
+        "description": "- Trying to be kind in a hostile world -\nDM open",
+        "id": "2039205000727896065",
+        "location": "They/She 💛🤍💜🖤 Ella",
+        "name": "clarisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055833245342658560/4qyw641e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 330,
+          "like_count": 4554,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 721
+        },
+        "username": "clarisita_483",
+        "verified": false
+      }
+    ]
+  }
+}

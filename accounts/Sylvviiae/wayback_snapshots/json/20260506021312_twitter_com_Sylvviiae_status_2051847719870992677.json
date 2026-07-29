@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2051721968416600341",
+    "created_at": "2026-05-06T02:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051847719870992677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647980508297719815",
+          "start": 0,
+          "username": "yanyejilennon"
+        },
+        {
+          "end": 31,
+          "id": "1738187540912607232",
+          "start": 15,
+          "username": "uu_salvation777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051847719870992677",
+    "in_reply_to_user_id": "1647980508297719815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051721968416600341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanyejilennon @uu_salvation777 那么那些没有天赋的人呢，他们这一生就只能被浪费掉吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2051721968416600341",
+        "created_at": "2026-05-06T02:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051847719870992677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647980508297719815",
+              "start": 0,
+              "username": "yanyejilennon"
+            },
+            {
+              "end": 31,
+              "id": "1738187540912607232",
+              "start": 15,
+              "username": "uu_salvation777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051847719870992677",
+        "in_reply_to_user_id": "1647980508297719815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051721968416600341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanyejilennon @uu_salvation777 那么那些没有天赋的人呢，他们这一生就只能被浪费掉吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647980508297719815",
+        "conversation_id": "2051721968416600341",
+        "created_at": "2026-05-05T17:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051721968416600341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051721968416600341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请不要颓废，不要埋没你的天赋、葬送你的未来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 451,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1096
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:09:18.000Z",
+        "description": "握紧我矛盾密布的手",
+        "id": "1647980508297719815",
+        "location": "Liverpool, England",
+        "name": "21st Century Schizoid Man",
+        "pinned_tweet_id": "2051709632058380563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041206438568296448/01syet9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 320,
+          "like_count": 30029,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2104
+        },
+        "username": "yanyejilennon",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T13:19:47.000Z",
+        "description": "17岁小女孩 ［EN/简中 ］「抑郁/cptsd/贪食症/adhd」新教徒吧 首席teenager/保持一颗银子般的心 直女 前世@linny83215 奶农@silentbleeding1 ifw #shedtwt ✝️emo girl 替西泊肽使用中 gw54kg 互联网嘉欣 举报我的人给我挡十年灾 🚪好友位77",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 100,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "linny83215"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "silentbleeding1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/jRKM0Ow0ap"
+              }
+            ]
+          }
+        },
+        "id": "1738187540912607232",
+        "location": "紫魔爪",
+        "name": "⁺‧ཐི⋆♱uuuUu7🇺🇸♱⋆ཋྀ‧⁺",
+        "pinned_tweet_id": "2051090194808598932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048453870284832768/rxJGoiYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 73,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 975
+        },
+        "url": "https://t.co/jRKM0Ow0ap",
+        "username": "uu_salvation777",
+        "verified": false
+      }
+    ]
+  }
+}

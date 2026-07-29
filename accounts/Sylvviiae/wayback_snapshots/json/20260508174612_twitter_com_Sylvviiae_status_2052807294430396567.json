@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2038342037800706070",
+    "created_at": "2026-05-08T17:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052807294430396567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985759640328773632",
+          "start": 0,
+          "username": "El_ketchupp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052807294430396567",
+    "in_reply_to_user_id": "1985759640328773632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052806626629812627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@El_ketchupp Me2. Living is exhausting. I no longer care about afterlife and shit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2038342037800706070",
+        "created_at": "2026-05-08T17:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052807294430396567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985759640328773632",
+              "start": 0,
+              "username": "El_ketchupp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052807294430396567",
+        "in_reply_to_user_id": "1985759640328773632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052806626629812627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@El_ketchupp Me2. Living is exhausting. I no longer care about afterlife and shit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985759640328773632",
+        "conversation_id": "2038342037800706070",
+        "created_at": "2026-05-08T17:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052806626629812627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052806626629812627",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038342037800706070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae A pior parte é que eu sei se existir essas coisas eu com ctz vou pro inferno, mas eu já me contentei com isso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 472,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1167
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T17:24:23.000Z",
+        "description": "aaaaaa I'm dying //\n\nthey/them //\n\nvent/blog //\n\nminor // \n\nDNI: shotacon/lolicon, weirdos, wannabe sugar daddies, fetishizer, normaltwt",
+        "id": "1985759640328773632",
+        "name": "spiteful bitch of the shed",
+        "pinned_tweet_id": "2040904992450650611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040904407324213248/6c9fQH_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 220,
+          "like_count": 4997,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 1947
+        },
+        "username": "El_ketchupp",
+        "verified": false
+      }
+    ]
+  }
+}

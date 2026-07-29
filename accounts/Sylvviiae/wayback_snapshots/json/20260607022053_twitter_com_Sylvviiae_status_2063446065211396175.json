@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2062225840432427432",
+    "created_at": "2026-06-07T02:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063446065211396175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594653039109230598",
+          "start": 0,
+          "username": "regaforz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063446065211396175",
+    "in_reply_to_user_id": "1594653039109230598",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063436268604932194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regaforz Wowwwww yes indeed u are"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2062225840432427432",
+        "created_at": "2026-06-07T02:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063446065211396175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594653039109230598",
+              "start": 0,
+              "username": "regaforz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063446065211396175",
+        "in_reply_to_user_id": "1594653039109230598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063436268604932194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regaforz Wowwwww yes indeed u are"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594653039109230598",
+        "conversation_id": "2062225840432427432",
+        "created_at": "2026-06-07T01:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063436268604932194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063436268604932194",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062225840432427432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae - kissed: never\n - drank: never\n - smoked: never \n - had sex: never \n - used drugs: never\n - watched porn: never\n - sent nudes: never\n - got a tattoo: never\n - fell in love: never \n\nOh shit I'm the definition of a good boy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 814,
+          "like_count": 330,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1474
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T11:25:11.000Z",
+        "description": "peace of mind above everything",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/regaforz?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/regaforz?igsh=dzdhcXg4dGNkN3J0",
+                "start": 0,
+                "url": "https://t.co/SbjaqOv0Z7"
+              }
+            ]
+          }
+        },
+        "id": "1594653039109230598",
+        "location": "Guitarist🎸",
+        "name": "Rega",
+        "pinned_tweet_id": "2058465269165756838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060217543969943552/gW_xcvsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1981,
+          "like_count": 17123,
+          "listed_count": 8,
+          "media_count": 700,
+          "tweet_count": 5012
+        },
+        "url": "https://t.co/SbjaqOv0Z7",
+        "username": "regaforz",
+        "verified": false
+      }
+    ]
+  }
+}

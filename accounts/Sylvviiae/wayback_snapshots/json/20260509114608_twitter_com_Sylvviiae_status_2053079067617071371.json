@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2053012245278491068",
+    "created_at": "2026-05-09T11:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053079067617071371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915236493586755584",
+          "start": 0,
+          "username": "RoseAnn791825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053079067617071371",
+    "in_reply_to_user_id": "1915236493586755584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053025599300767966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoseAnn791825 其实从十四岁开始，我的性幻想就是代替奥菲莉亚躺在水里。可是我到十六岁才开始认真思考死亡的事情，因为我一直在等，等一个人来爱我，来改变我病态的认知，来给我晦暗的生活带来更多的可能性。也许那个人已经出现了，但我的缺陷让我失去了太多美好。\n我不想再为幻想枯守了&gt;&lt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2053012245278491068",
+        "created_at": "2026-05-09T11:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053079067617071371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915236493586755584",
+              "start": 0,
+              "username": "RoseAnn791825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053079067617071371",
+        "in_reply_to_user_id": "1915236493586755584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053025599300767966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoseAnn791825 其实从十四岁开始，我的性幻想就是代替奥菲莉亚躺在水里。可是我到十六岁才开始认真思考死亡的事情，因为我一直在等，等一个人来爱我，来改变我病态的认知，来给我晦暗的生活带来更多的可能性。也许那个人已经出现了，但我的缺陷让我失去了太多美好。\n我不想再为幻想枯守了&gt;&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915236493586755584",
+        "conversation_id": "2053012245278491068",
+        "created_at": "2026-05-09T08:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053025599300767966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053025599300767966",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053012245278491068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 不知道咋说好，虽然心里不希望是这个结局，世界那么大应该去多看看。不过，我还是尊重你的选择，每个人都有选择的权利，无论做啥我都支持个人的决定吧，毕竟下定决心了就这样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 482,
+          "like_count": 239,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1183
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T02:49:11.000Z",
+        "description": "",
+        "id": "1915236493586755584",
+        "name": "渊数",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016827233416204290/U85doew__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 29,
+          "like_count": 215,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 188
+        },
+        "username": "RoseAnn791825",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052746093876973655",
+    "created_at": "2026-05-08T13:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052746093876973655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sylvviiae/stat…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/sylvviiae/status/2038342037800706070",
+          "start": 142,
+          "url": "https://t.co/P9GkmSIPUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052746093876973655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038342037800706070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然从前畅想过活成数字生命什么的，再不济也要把文字留下，跨过时间的裂缝和人类的隔阂，坐在后来者的身边，拍拍他的肩膀，和他对对话，但是真正在这一天到来的时候，我还是想把走过的痕迹全都抹除&gt; &lt;\n原因其实很简单。\n一簇在苦海里绽放的烟花可比一朵在供桌上落了灰的塑料花酷多了。 https://t.co/P9GkmSIPUb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052746093876973655",
+        "created_at": "2026-05-08T13:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052746093876973655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sylvviiae/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/sylvviiae/status/2038342037800706070",
+              "start": 142,
+              "url": "https://t.co/P9GkmSIPUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052746093876973655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038342037800706070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然从前畅想过活成数字生命什么的，再不济也要把文字留下，跨过时间的裂缝和人类的隔阂，坐在后来者的身边，拍拍他的肩膀，和他对对话，但是真正在这一天到来的时候，我还是想把走过的痕迹全都抹除&gt; &lt;\n原因其实很简单。\n一簇在苦海里绽放的烟花可比一朵在供桌上落了灰的塑料花酷多了。 https://t.co/P9GkmSIPUb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2038342037800706070",
+        "created_at": "2026-03-29T19:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038342037800706070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038342037800706070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2351,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "多希望人没有下辈子，没有魂灵，也没有地狱天堂。希望死了就是死了，是一切的终点，是一生遭受的所有痛苦都和躯壳里的内容一起消散。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 469,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1154
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

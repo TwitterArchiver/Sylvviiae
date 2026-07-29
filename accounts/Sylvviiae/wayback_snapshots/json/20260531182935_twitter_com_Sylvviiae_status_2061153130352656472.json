@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2061153130352656472",
+    "created_at": "2026-05-31T18:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061153130352656472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015064584810610688",
+          "start": 3,
+          "username": "iatinihs123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061153130352656472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4767
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060760039682683129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iatinihs123: 飲んだら0.01秒で死ねる薬が欲しい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2061153130352656472",
+        "created_at": "2026-05-31T18:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061153130352656472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015064584810610688",
+              "start": 3,
+              "username": "iatinihs123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061153130352656472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4767
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060760039682683129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iatinihs123: 飲んだら0.01秒で死ねる薬が欲しい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015064584810610688",
+        "conversation_id": "2060760039682683129",
+        "created_at": "2026-05-30T16:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060760039682683129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060760039682683129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 815,
+          "impression_count": 1748630,
+          "like_count": 43920,
+          "quote_count": 175,
+          "reply_count": 322,
+          "retweet_count": 4767
+        },
+        "reply_settings": "everyone",
+        "text": "飲んだら0.01秒で死ねる薬が欲しい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 756,
+          "like_count": 292,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 1368
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T14:14:09.000Z",
+        "description": "自分の人生は絶望で不幸。早く消えたい。",
+        "id": "2015064584810610688",
+        "name": "糞野郎",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 212,
+          "like_count": 8498,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 1094
+        },
+        "username": "iatinihs123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2064369936609542631",
+    "created_at": "2026-06-10T12:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064691629659959303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594653039109230598",
+          "start": 0,
+          "username": "regaforz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064691629659959303",
+    "in_reply_to_user_id": "1594653039109230598",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064369936609542631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@regaforz The misalignment of aesthetics is indeed the greatest sin"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2064369936609542631",
+        "created_at": "2026-06-10T12:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064691629659959303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594653039109230598",
+              "start": 0,
+              "username": "regaforz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064691629659959303",
+        "in_reply_to_user_id": "1594653039109230598",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064369936609542631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@regaforz The misalignment of aesthetics is indeed the greatest sin"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594653039109230598",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1529056359265669121",
+              "name": "Don"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1529056359265669121",
+              "name": "Don"
+            }
+          }
+        ],
+        "conversation_id": "2064369936609542631",
+        "created_at": "2026-06-09T15:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064369936609542631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064369936609542631",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 805,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "my trust in someone decreases when they don't actually watch the movie I recommended"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 864,
+          "like_count": 352,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1537
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T11:25:11.000Z",
+        "description": "peace of mind above everything",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/regaforz?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/regaforz?igsh=dzdhcXg4dGNkN3J0",
+                "start": 0,
+                "url": "https://t.co/SbjaqOv0Z7"
+              }
+            ]
+          }
+        },
+        "id": "1594653039109230598",
+        "location": "Guitarist🎸",
+        "name": "Rega",
+        "pinned_tweet_id": "2058465269165756838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060217543969943552/gW_xcvsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 1980,
+          "like_count": 17333,
+          "listed_count": 10,
+          "media_count": 719,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/SbjaqOv0Z7",
+        "username": "regaforz",
+        "verified": false
+      }
+    ]
+  }
+}

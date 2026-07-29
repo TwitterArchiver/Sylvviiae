@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052746093876973655",
+    "created_at": "2026-05-08T17:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052807614753570884"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052807614753570884",
+    "in_reply_to_user_id": "1902217890738401281",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052746093876973655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "The translation is actually poetic as they way I wrote it lol"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052746093876973655",
+        "created_at": "2026-05-08T17:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052807614753570884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052807614753570884",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052746093876973655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The translation is actually poetic as they way I wrote it lol"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052746093876973655",
+        "created_at": "2026-05-08T13:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052746093876973655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sylvviiae/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/sylvviiae/status/2038342037800706070",
+              "start": 142,
+              "url": "https://t.co/P9GkmSIPUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052746093876973655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038342037800706070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然从前畅想过活成数字生命什么的，再不济也要把文字留下，跨过时间的裂缝和人类的隔阂，坐在后来者的身边，拍拍他的肩膀，和他对对话，但是真正在这一天到来的时候，我还是想把走过的痕迹全都抹除&gt; &lt;\n原因其实很简单。\n一簇在苦海里绽放的烟花可比一朵在供桌上落了灰的塑料花酷多了。 https://t.co/P9GkmSIPUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 472,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1168
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

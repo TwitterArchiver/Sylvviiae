@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2062159129570095598",
+    "created_at": "2026-06-03T13:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062168525993853191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "meiiiTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062168525993853191",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062159129570095598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiiiTvT bd也要还我钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_2062159118480384000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5Cyt9bIAAZLh8.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2062159129570095598",
+        "created_at": "2026-06-03T13:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062168525993853191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "meiiiTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062168525993853191",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062159129570095598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiiiTvT bd也要还我钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062159118480384000"
+          ]
+        },
+        "author_id": "1599377355503726592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062159129570095598",
+        "created_at": "2026-06-03T13:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062159129570095598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhIHKuNgXW",
+              "end": 28,
+              "expanded_url": "https://x.com/meiiiTvT/status/2062159129570095598/photo/1",
+              "media_key": "3_2062159118480384000",
+              "start": 5,
+              "url": "https://t.co/IhIHKuNgXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062159129570095598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很懵逼 https://t.co/IhIHKuNgXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 774,
+          "like_count": 310,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1399
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓｜07重抑中焦神经性贪食｜o割餐券｜互fo欢迎 @Denyoffshshsh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Denyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060007971237904384/XKElbklj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 433,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 2403
+        },
+        "username": "meiiiTvT",
+        "verified": false
+      }
+    ]
+  }
+}

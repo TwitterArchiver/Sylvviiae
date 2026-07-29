@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052047594289782903",
+    "created_at": "2026-05-06T16:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052064691707625958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1975275228277137408",
+          "start": 0,
+          "username": "xftsko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052064691707625958",
+    "in_reply_to_user_id": "1975275228277137408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052062409041342906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xftsko Yeahhh i partly achieved it. I dare wear short sleeves in front of two or three of my best friends cuz to them I’m a certified psycho. For the rest of the time I just burn inside my long sleeves = ="
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052047594289782903",
+        "created_at": "2026-05-06T16:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052064691707625958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1975275228277137408",
+              "start": 0,
+              "username": "xftsko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052064691707625958",
+        "in_reply_to_user_id": "1975275228277137408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052062409041342906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xftsko Yeahhh i partly achieved it. I dare wear short sleeves in front of two or three of my best friends cuz to them I’m a certified psycho. For the rest of the time I just burn inside my long sleeves = ="
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975275228277137408",
+        "conversation_id": "2052047594289782903",
+        "created_at": "2026-05-06T16:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052062409041342906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052062409041342906",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052061185340772814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae yeah i agree and i want it to be normalized only for me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 456,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1126
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T19:01:45.000Z",
+        "description": "18 //🍨// i block freely // atheist @xshaoth -priv / pro recovery! // 2nd CHUD acc @glitterydolly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "xshaoth"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "glitterydolly"
+              }
+            ]
+          }
+        },
+        "id": "1975275228277137408",
+        "location": "my room🧁",
+        "name": "coco💭",
+        "pinned_tweet_id": "2041236932257071601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046332175549964288/IeninUCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 1489,
+          "like_count": 79717,
+          "listed_count": 50,
+          "media_count": 511,
+          "tweet_count": 10110
+        },
+        "username": "xftsko",
+        "verified": false
+      }
+    ]
+  }
+}

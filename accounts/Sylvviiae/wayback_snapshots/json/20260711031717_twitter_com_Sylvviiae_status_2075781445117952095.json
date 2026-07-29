@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075781435332669440"
+      ]
+    },
+    "author_id": "1902217890738401281",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075781445117952095",
+    "created_at": "2026-07-11T03:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075781445117952095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/91o5GlTJPJ",
+          "end": 29,
+          "expanded_url": "https://x.com/Sylvviiae/status/2075781445117952095/photo/1",
+          "media_key": "3_2075781435332669440",
+          "start": 6,
+          "url": "https://t.co/91o5GlTJPJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075781445117952095",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "立即喝一杯 https://t.co/91o5GlTJPJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075781435332669440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6oN6xasAArd6M.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075781435332669440"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075781445117952095",
+        "created_at": "2026-07-11T03:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075781445117952095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91o5GlTJPJ",
+              "end": 29,
+              "expanded_url": "https://x.com/Sylvviiae/status/2075781445117952095/photo/1",
+              "media_key": "3_2075781435332669440",
+              "start": 6,
+              "url": "https://t.co/91o5GlTJPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075781445117952095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "立即喝一杯 https://t.co/91o5GlTJPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 889,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

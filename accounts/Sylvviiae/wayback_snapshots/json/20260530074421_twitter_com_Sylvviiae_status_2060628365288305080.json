@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2060590739629936762",
+    "created_at": "2026-05-30T07:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060628365288305080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1530195537017700352",
+          "start": 0,
+          "username": "linksash007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060628365288305080",
+    "in_reply_to_user_id": "1530195537017700352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060619344455795071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linksash007 🫪🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2060590739629936762",
+        "created_at": "2026-05-30T07:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060628365288305080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1530195537017700352",
+              "start": 0,
+              "username": "linksash007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060628365288305080",
+        "in_reply_to_user_id": "1530195537017700352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060619344455795071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linksash007 🫪🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530195537017700352",
+        "conversation_id": "2060590739629936762",
+        "created_at": "2026-05-30T07:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060619344455795071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060619344455795071",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060590739629936762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 好可爱呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 747,
+          "like_count": 284,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 1341
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T14:33:52.000Z",
+        "description": "随机发一些日常与碎碎念 把我当成笑话看就好 不用在意我说的话",
+        "id": "1530195537017700352",
+        "name": "irlisy-_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657405357579272193/ymiYADyX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 313,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 46
+        },
+        "username": "linksash007",
+        "verified": false
+      }
+    ]
+  }
+}

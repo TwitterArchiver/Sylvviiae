@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2080099716382310858",
+    "created_at": "2026-07-23T06:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080171115532738724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1918261520817065984",
+          "start": 0,
+          "username": "EmptyVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080171115532738724",
+    "in_reply_to_user_id": "1918261520817065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080099716382310858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmptyVx 为了ccb付出的有点太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2080099716382310858",
+        "created_at": "2026-07-23T06:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080171115532738724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1918261520817065984",
+              "start": 0,
+              "username": "EmptyVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080171115532738724",
+        "in_reply_to_user_id": "1918261520817065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080099716382310858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmptyVx 为了ccb付出的有点太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918261520817065984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2080099716382310858",
+        "created_at": "2026-07-23T01:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080099716382310858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080099716382310858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群裡有沒有地雷妹和我談一下我可以聽你傾訴你的原神家庭陪你割手手晚上也不睡覺就看著你吃那小藥片無聊了就穿蕾服出門壓馬路打舞萌但要睡覺的時候你懂得對了我Rating W53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 947,
+          "like_count": 448,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1720
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，无性恋，我能罵你說明你也是糖到極致了，看见了会回Fo💅",
+        "id": "1918261520817065984",
+        "location": "塔菲國",
+        "name": "糖人日記",
+        "pinned_tweet_id": "2008527706208842184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 214,
+          "like_count": 109,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "EmptyVx",
+        "verified": false
+      }
+    ]
+  }
+}

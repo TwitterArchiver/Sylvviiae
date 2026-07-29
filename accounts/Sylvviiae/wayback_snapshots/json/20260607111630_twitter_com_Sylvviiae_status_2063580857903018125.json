@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2063554317307814060",
+    "created_at": "2026-06-07T11:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063580857903018125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783810900555882496",
+          "start": 0,
+          "username": "MaybefL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063580857903018125",
+    "in_reply_to_user_id": "1783810900555882496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063578075896619087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaybefL8964 好哦——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2063554317307814060",
+        "created_at": "2026-06-07T11:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063580857903018125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783810900555882496",
+              "start": 0,
+              "username": "MaybefL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063580857903018125",
+        "in_reply_to_user_id": "1783810900555882496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063578075896619087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaybefL8964 好哦——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783810900555882496",
+        "conversation_id": "2063554317307814060",
+        "created_at": "2026-06-07T11:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063578075896619087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063578075896619087",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063554317307814060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 好耶好耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 837,
+          "like_count": 336,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1482
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T10:50:54.000Z",
+        "description": "我是以前的dunk~^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y0tsubaKoiwai",
+                "end": 23,
+                "expanded_url": "http://t.me/Y0tsubaKoiwai",
+                "start": 0,
+                "url": "https://t.co/8Vfrej9ouW"
+              }
+            ]
+          }
+        },
+        "id": "1783810900555882496",
+        "name": "au revoir4227^ ^",
+        "pinned_tweet_id": "2039725301484433571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021881579124232192/Pg7308E0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 136,
+          "like_count": 18066,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/8Vfrej9ouW",
+        "username": "MaybefL8964",
+        "verified": true
+      }
+    ]
+  }
+}

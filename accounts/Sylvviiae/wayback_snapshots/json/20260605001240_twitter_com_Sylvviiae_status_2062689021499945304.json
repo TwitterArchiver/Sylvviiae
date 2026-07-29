@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2062684907848265797",
+    "created_at": "2026-06-05T00:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062689021499945304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823826965264211968",
+          "start": 0,
+          "username": "CCointreau_39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062689021499945304",
+    "in_reply_to_user_id": "1823826965264211968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062685941131857967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCointreau_39 发你了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2062684907848265797",
+        "created_at": "2026-06-05T00:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062689021499945304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823826965264211968",
+              "start": 0,
+              "username": "CCointreau_39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062689021499945304",
+        "in_reply_to_user_id": "1823826965264211968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062685941131857967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCointreau_39 发你了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823826965264211968",
+        "conversation_id": "2062684907848265797",
+        "created_at": "2026-06-05T00:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062685941131857967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062685941131857967",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062684907848265797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 什么图"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 800,
+          "like_count": 318,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1449
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:00:25.000Z",
+        "description": "ヾ(´︶`*)ﾉ♬\n一般路过小众硅基生物 人 你好 我是入",
+        "id": "1823826965264211968",
+        "location": "qwq",
+        "name": "CCOIU",
+        "pinned_tweet_id": "2028344572754239718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008023078958235648/KOP7OWB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 276,
+          "like_count": 15644,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1853
+        },
+        "username": "CCointreau_39",
+        "verified": false
+      }
+    ]
+  }
+}

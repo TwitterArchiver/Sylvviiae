@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2062217344991314195",
+    "created_at": "2026-06-03T16:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062217344991314195"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062217344991314195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开了个小号才发现自己的来时路有多么不容易。X的推流机制是一个很神奇的东西，更何况现代社会娱乐化的土壤里再也不会开出具有传统之美的花。抓不住注意力，吊不起胃口的事物注定不会被在意或铭记。\n所有遇见的结局皆是别离。有一天我会消失，可能是账号封禁，可能是悲伤淹没魂灵，甚至可能是治好了jsb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2062217344991314195",
+        "created_at": "2026-06-03T16:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062217344991314195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062217344991314195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开了个小号才发现自己的来时路有多么不容易。X的推流机制是一个很神奇的东西，更何况现代社会娱乐化的土壤里再也不会开出具有传统之美的花。抓不住注意力，吊不起胃口的事物注定不会被在意或铭记。\n所有遇见的结局皆是别离。有一天我会消失，可能是账号封禁，可能是悲伤淹没魂灵，甚至可能是治好了jsb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 778,
+          "like_count": 311,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1410
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2063936102088712697",
+    "created_at": "2026-06-08T10:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063936102088712697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tyoooon_5/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/tyoooon_5/status/2063932478981656900",
+          "start": 30,
+          "url": "https://t.co/EywenyQTSk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063936102088712697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063932478981656900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的女孩吃藥藥墜機了，誰能幫她一下，看看這样會不會出事TT https://t.co/EywenyQTSk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2063936102088712697",
+        "created_at": "2026-06-08T10:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063936102088712697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tyoooon_5/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/tyoooon_5/status/2063932478981656900",
+              "start": 30,
+              "url": "https://t.co/EywenyQTSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063936102088712697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063932478981656900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的女孩吃藥藥墜機了，誰能幫她一下，看看這样會不會出事TT https://t.co/EywenyQTSk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963310654208839687",
+        "conversation_id": "2063932478981656900",
+        "created_at": "2026-06-08T10:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063932478981656900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063932478981656900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求助，od女男孩们，我昨晚吃了10t苯海索我第一次吃这个药，我感觉是有点晕晕的，我吃晚安都是15t，然后今天下午的样子没有药效了但是我小腿那个神经，和血液，都会时不时跳动一下，卧槽我害怕不会是癫痫吧😭😭😭😭\n豆包纸跟我说要去医院排毒，我去她妈的我家里人都不愿意多花一分钱\n#od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 839,
+          "like_count": 347,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1516
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T18:38:41.000Z",
+        "description": "不要记得我",
+        "id": "1963310654208839687",
+        "name": "苯海索司马物种",
+        "pinned_tweet_id": "2062655644277313913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061898289319161856/txByXGMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 3,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "username": "Tyoooon_5",
+        "verified": false
+      }
+    ]
+  }
+}

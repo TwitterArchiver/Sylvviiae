@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2062253476097237024",
+    "created_at": "2026-06-03T19:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T20:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062256008446267829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1952415283999911936",
+          "start": 0,
+          "username": "gachaheatvirus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062256008446267829",
+    "in_reply_to_user_id": "1952415283999911936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062253476097237024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gachaheatvirus I’ve been eighteen for four years now; that’s fine"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2062253476097237024",
+        "created_at": "2026-06-03T19:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062256008446267829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1952415283999911936",
+              "start": 0,
+              "username": "gachaheatvirus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062256008446267829",
+        "in_reply_to_user_id": "1952415283999911936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062253476097237024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gachaheatvirus I’ve been eighteen for four years now; that’s fine"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952415283999911936",
+        "conversation_id": "2062253476097237024",
+        "created_at": "2026-06-03T19:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T20:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062253476097237024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gachaheatvirus…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/gachaheatvirus/status/2061904873197572438",
+              "start": 108,
+              "url": "https://t.co/r3a4NGlALq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062253476097237024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061904873197572438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "can people stop saying they never faked youre making me and everyone else insecure about our faked ages ;-; https://t.co/r3a4NGlALq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 780,
+          "like_count": 314,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1427
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T17:04:21.000Z",
+        "description": "⠀⠀ ⠀⠀ ⠀⠀ ໒꒱̫𓐇⠀ ˚ִִ𓈒 ۫ 𓏼⠀ ݂ ͜͝ ּ ۪ ֺ ⠀ ᚐׅ𓏼ིྀ \n⠀⠀ ⠀⠀ ⠀ ⠀♡֯ ̣̣̥ ̣ ✿ ִ⑅  𝟙⑥ ⠀ ͜͝ | ͜͝ \n⠀⠀ ⠀⠀ ⠀⠀ ⠀ ⑅  ݂ ૮꒰ྀི ›̥̥̥ ⸝⸝ ‹̥̥ ꒱ྀིა 𓈒 ༷ ̼",
+        "id": "1952415283999911936",
+        "name": "tsu",
+        "pinned_tweet_id": "2059250367100002616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059244905994579968/rWJh3yuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 684,
+          "like_count": 3116,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2793
+        },
+        "username": "gachaheatvirus",
+        "verified": false
+      }
+    ]
+  }
+}

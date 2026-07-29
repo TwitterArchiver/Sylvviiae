@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066884428547391488",
+        "3_2066884427612073984",
+        "3_2066884427599466496",
+        "3_2066884428518076416"
+      ]
+    },
+    "author_id": "1902217890738401281",
+    "conversation_id": "2066884478577066212",
+    "created_at": "2026-06-16T14:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066884478577066212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 39,
+          "id": "2046240879695007744",
+          "start": 28,
+          "username": "44samasoup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/inLf5HMR8C",
+          "end": 63,
+          "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+          "media_key": "3_2066884428547391488",
+          "start": 40,
+          "url": "https://t.co/inLf5HMR8C"
+        },
+        {
+          "display_url": "pic.x.com/inLf5HMR8C",
+          "end": 63,
+          "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+          "media_key": "3_2066884427612073984",
+          "start": 40,
+          "url": "https://t.co/inLf5HMR8C"
+        },
+        {
+          "display_url": "pic.x.com/inLf5HMR8C",
+          "end": 63,
+          "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+          "media_key": "3_2066884427599466496",
+          "start": 40,
+          "url": "https://t.co/inLf5HMR8C"
+        },
+        {
+          "display_url": "pic.x.com/inLf5HMR8C",
+          "end": 63,
+          "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+          "media_key": "3_2066884428518076416",
+          "start": 40,
+          "url": "https://t.co/inLf5HMR8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066884478577066212",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "You won’t abandon me, right?@44samasoup https://t.co/inLf5HMR8C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066884428547391488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8Mb9tagAAyWAy.jpg",
+        "width": 1620
+      },
+      {
+        "height": 908,
+        "media_key": "3_2066884427612073984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8Mb6OasAAkDE_.jpg",
+        "width": 1362
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2066884427599466496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8Mb6LaUAAYD1L.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2066884428518076416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8Mb9mbMAAUzY_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066884428547391488",
+            "3_2066884427612073984",
+            "3_2066884427599466496",
+            "3_2066884428518076416"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2066884478577066212",
+        "created_at": "2026-06-16T14:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066884478577066212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "2046240879695007744",
+              "start": 28,
+              "username": "44samasoup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/inLf5HMR8C",
+              "end": 63,
+              "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+              "media_key": "3_2066884428547391488",
+              "start": 40,
+              "url": "https://t.co/inLf5HMR8C"
+            },
+            {
+              "display_url": "pic.x.com/inLf5HMR8C",
+              "end": 63,
+              "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+              "media_key": "3_2066884427612073984",
+              "start": 40,
+              "url": "https://t.co/inLf5HMR8C"
+            },
+            {
+              "display_url": "pic.x.com/inLf5HMR8C",
+              "end": 63,
+              "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+              "media_key": "3_2066884427599466496",
+              "start": 40,
+              "url": "https://t.co/inLf5HMR8C"
+            },
+            {
+              "display_url": "pic.x.com/inLf5HMR8C",
+              "end": 63,
+              "expanded_url": "https://x.com/Sylvviiae/status/2066884478577066212/photo/1",
+              "media_key": "3_2066884428518076416",
+              "start": 40,
+              "url": "https://t.co/inLf5HMR8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066884478577066212",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "You won’t abandon me, right?@44samasoup https://t.co/inLf5HMR8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 883,
+          "like_count": 370,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1558
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:54:37.000Z",
+        "description": "06\n宇宙人",
+        "id": "2046240879695007744",
+        "name": "ミオ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046241273284333568/2aEE7b5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 14
+        },
+        "username": "44samasoup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072705791967326208"
+      ],
+      "media_source_tweet_id": [
+        "2072705795322778027"
+      ]
+    },
+    "author_id": "1902217890738401281",
+    "conversation_id": "2072711678605824129",
+    "created_at": "2026-07-02T15:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072711678605824129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1466154288191873026",
+          "start": 3,
+          "username": "lovedropx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FeUEDdCvUs",
+          "end": 38,
+          "expanded_url": "https://x.com/lovedropx/status/2072705795322778027/photo/1",
+          "media_key": "3_2072705791967326208",
+          "start": 15,
+          "url": "https://t.co/FeUEDdCvUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072711678605824129",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072705795322778027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovedropx: https://t.co/FeUEDdCvUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2072705791967326208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO676YbcAAfV4W.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072705791967326208"
+          ],
+          "media_source_tweet_id": [
+            "2072705795322778027"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2072711678605824129",
+        "created_at": "2026-07-02T15:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072711678605824129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1466154288191873026",
+              "start": 3,
+              "username": "lovedropx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeUEDdCvUs",
+              "end": 38,
+              "expanded_url": "https://x.com/lovedropx/status/2072705795322778027/photo/1",
+              "media_key": "3_2072705791967326208",
+              "start": 15,
+              "url": "https://t.co/FeUEDdCvUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072711678605824129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072705795322778027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovedropx: https://t.co/FeUEDdCvUs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072705791967326208"
+          ]
+        },
+        "author_id": "1466154288191873026",
+        "conversation_id": "2072705795322778027",
+        "created_at": "2026-07-02T15:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072705795322778027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeUEDdCvUs",
+              "end": 23,
+              "expanded_url": "https://x.com/lovedropx/status/2072705795322778027/photo/1",
+              "media_key": "3_2072705791967326208",
+              "start": 0,
+              "url": "https://t.co/FeUEDdCvUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072705795322778027",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 331,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FeUEDdCvUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 892,
+          "like_count": 393,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T21:17:41.000Z",
+        "description": "A collection of words from books I've read, along with my ramblings | Movies | Linguistics & Literature |",
+        "id": "1466154288191873026",
+        "location": "📚",
+        "name": "love drops",
+        "pinned_tweet_id": "1740948084484702612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922145872076271616/WpPuwBWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321118,
+          "following_count": 122,
+          "like_count": 11463,
+          "listed_count": 756,
+          "media_count": 52183,
+          "tweet_count": 61454
+        },
+        "url": "",
+        "username": "lovedropx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2057111146503790881",
+    "created_at": "2026-05-20T15:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057114933939274159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "876469795947823104",
+          "start": 0,
+          "username": "Cali_ERII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057114933939274159",
+    "in_reply_to_user_id": "876469795947823104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057114403582235108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cali_ERII 合理的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2057111146503790881",
+        "created_at": "2026-05-20T15:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057114933939274159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "876469795947823104",
+              "start": 0,
+              "username": "Cali_ERII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057114933939274159",
+        "in_reply_to_user_id": "876469795947823104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057114403582235108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cali_ERII 合理的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "876469795947823104",
+        "conversation_id": "2057111146503790881",
+        "created_at": "2026-05-20T15:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057114403582235108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057114403582235108",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057111146503790881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 像设定好指令的机器人一样，每天被闹钟叫醒去工位，在感觉做的事情可预期进展顺利的时候就会没那么焦虑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 725,
+          "like_count": 282,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 1330
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T16:00:58.000Z",
+        "description": "弾けないギターを片手に\nボクはあなたに何を歌う？\n切れかけた理屈を結んでさ\n響け 響け 響け",
+        "id": "876469795947823104",
+        "location": "上海",
+        "name": "０ｘ１０ｕｔｙｕｕｚ",
+        "pinned_tweet_id": "2027939771344163180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755328600444633088/4rAUTmB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 363,
+          "like_count": 1879,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 603
+        },
+        "username": "Cali_ERII",
+        "verified": false
+      }
+    ]
+  }
+}

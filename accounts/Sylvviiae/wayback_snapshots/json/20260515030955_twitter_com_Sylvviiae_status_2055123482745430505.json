@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2055106558577742166",
+    "created_at": "2026-05-15T03:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T04:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055123482745430505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1802653294554230784",
+          "start": 0,
+          "username": "mnweeper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055123482745430505",
+    "in_reply_to_user_id": "1802653294554230784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055106558577742166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnweeper 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2055106558577742166",
+        "created_at": "2026-05-15T03:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055123482745430505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1802653294554230784",
+              "start": 0,
+              "username": "mnweeper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055123482745430505",
+        "in_reply_to_user_id": "1802653294554230784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055106558577742166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnweeper 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802653294554230784",
+        "conversation_id": "2055106558577742166",
+        "created_at": "2026-05-15T02:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055106558577742166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055106558577742166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了不被发现，在酒店订几晚然后锁上门自杀可行吗（）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 547,
+          "like_count": 252,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 1217
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T10:44:00.000Z",
+        "description": "INFP/4w5/agender/acearo/lgbtqa+全友好/06/they\n/ASD/shtwt/jiraikei/精神障碍/一片虚空\n健全b求远离/举报我的人不得好死\n欢迎互fo^^\nWelcome to my funeral.",
+        "id": "1802653294554230784",
+        "name": "nnnuup",
+        "pinned_tweet_id": "2054948683897258396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041476401283600384/DYY293BN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 241,
+          "like_count": 2289,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 315
+        },
+        "username": "mnweeper",
+        "verified": false
+      }
+    ]
+  }
+}

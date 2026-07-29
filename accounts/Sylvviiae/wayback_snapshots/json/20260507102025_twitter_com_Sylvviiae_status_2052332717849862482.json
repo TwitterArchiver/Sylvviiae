@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2052332715798908928"
+      ]
+    },
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052332717849862482",
+    "created_at": "2026-05-07T10:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052332717849862482"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052332717849862482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和我的虎牙钉谁的寿命会更长？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 4320,
+        "end_datetime": "2026-05-10T10:20:24.000Z",
+        "id": "2052332715798908928",
+        "options": [
+          {
+            "label": "主播",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "虎牙钉",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2052332715798908928"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052332717849862482",
+        "created_at": "2026-05-07T10:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052332717849862482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052332717849862482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我的虎牙钉谁的寿命会更长？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 464,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1144
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

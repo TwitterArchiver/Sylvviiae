@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2051948891969667576",
+    "created_at": "2026-05-07T02:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052213459467874689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2029031867601829888",
+          "start": 0,
+          "username": "Wu5fwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052213459467874689",
+    "in_reply_to_user_id": "2029031867601829888",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051948891969667576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wu5fwc 111🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-07T02:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052213459467874689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2029031867601829888",
+              "start": 0,
+              "username": "Wu5fwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052213459467874689",
+        "in_reply_to_user_id": "2029031867601829888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051948891969667576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wu5fwc 111🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029031867601829888",
+        "conversation_id": "2051948891969667576",
+        "created_at": "2026-05-06T08:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051948891969667576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051948891969667576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4044,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 95,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "40粉fo：\n1:白兔一盒（折现80）\n2:自选一盒药（折现60）\n3:巧克力（折现50）\n4:转盘两次（最大40）\n5:小礼物（折现30）\n\n安慰奖2（折现各20）\n时限5.6——5.10\n\n私信扣1参加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 469,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T03:12:47.000Z",
+        "description": "| 中文中國🇨🇳 | 19+｜Transformers | Negative Emotions | My Girlfriend |#shtwt｜我很有钱！嗯！来找我互fofo吧喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2029031867601829888",
+        "name": "我需要更多pr（互fo",
+        "pinned_tweet_id": "2044685713304912265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051953924408807424/Hw8z5VyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 188,
+          "like_count": 1986,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "Wu5fwc",
+        "verified": false
+      }
+    ]
+  }
+}

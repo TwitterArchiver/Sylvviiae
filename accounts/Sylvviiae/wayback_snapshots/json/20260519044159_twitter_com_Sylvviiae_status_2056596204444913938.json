@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056126305662361601"
+      ],
+      "media_source_tweet_id": [
+        "2056126308527014195"
+      ]
+    },
+    "author_id": "1902217890738401281",
+    "conversation_id": "2056596204444913938",
+    "created_at": "2026-05-19T04:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T05:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056596204444913938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1189730641648205825",
+          "start": 3,
+          "username": "shinseikamafan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KcIbzjCh8e",
+          "end": 43,
+          "expanded_url": "https://x.com/shinseikamafan/status/2056126308527014195/photo/1",
+          "media_key": "3_2056126305662361601",
+          "start": 20,
+          "url": "https://t.co/KcIbzjCh8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056596204444913938",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1652
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056126308527014195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinseikamafan: https://t.co/KcIbzjCh8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2056126305662361601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIjT-y5XYAEc9xC.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056126305662361601"
+          ],
+          "media_source_tweet_id": [
+            "2056126308527014195"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2056596204444913938",
+        "created_at": "2026-05-19T04:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056596204444913938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1189730641648205825",
+              "start": 3,
+              "username": "shinseikamafan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcIbzjCh8e",
+              "end": 43,
+              "expanded_url": "https://x.com/shinseikamafan/status/2056126308527014195/photo/1",
+              "media_key": "3_2056126305662361601",
+              "start": 20,
+              "url": "https://t.co/KcIbzjCh8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056596204444913938",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1652
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056126308527014195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinseikamafan: https://t.co/KcIbzjCh8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056126305662361601"
+          ]
+        },
+        "author_id": "1189730641648205825",
+        "conversation_id": "2056126308527014195",
+        "created_at": "2026-05-17T21:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T22:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056126308527014195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcIbzjCh8e",
+              "end": 23,
+              "expanded_url": "https://x.com/shinseikamafan/status/2056126308527014195/photo/1",
+              "media_key": "3_2056126305662361601",
+              "start": 0,
+              "url": "https://t.co/KcIbzjCh8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056126308527014195",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 35336,
+          "like_count": 5748,
+          "quote_count": 20,
+          "reply_count": 5,
+          "retweet_count": 1652
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KcIbzjCh8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 575,
+          "like_count": 276,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 1273
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-31T02:27:52.000Z",
+        "description": "20✩ ♥SKC♥ ✩ NEET ✩ 🇺🇸 神聖かまってちゃん好き goldship is my fav",
+        "id": "1189730641648205825",
+        "location": "probably a skc mental asylum ",
+        "name": "goldship",
+        "pinned_tweet_id": "2027393273472352698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026831583685029888/dI7jNIVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 850,
+          "like_count": 7934,
+          "listed_count": 7,
+          "media_count": 1010,
+          "tweet_count": 2901
+        },
+        "username": "shinseikamafan",
+        "verified": false
+      }
+    ]
+  }
+}

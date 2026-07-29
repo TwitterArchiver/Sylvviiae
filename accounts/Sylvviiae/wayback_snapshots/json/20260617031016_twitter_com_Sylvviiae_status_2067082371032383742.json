@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2066884478577066212",
+    "created_at": "2026-06-17T03:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067082371032383742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053366838248259584",
+          "start": 0,
+          "username": "Cassie2meqwq"
+        },
+        {
+          "end": 25,
+          "id": "2046240879695007744",
+          "start": 14,
+          "username": "44samasoup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067082371032383742",
+    "in_reply_to_user_id": "2053366838248259584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066940722625053165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cassie2meqwq @44samasoup 喜欢你🥺🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2066884478577066212",
+        "created_at": "2026-06-17T03:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067082371032383742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053366838248259584",
+              "start": 0,
+              "username": "Cassie2meqwq"
+            },
+            {
+              "end": 25,
+              "id": "2046240879695007744",
+              "start": 14,
+              "username": "44samasoup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067082371032383742",
+        "in_reply_to_user_id": "2053366838248259584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066940722625053165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cassie2meqwq @44samasoup 喜欢你🥺🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2066884478577066212",
+        "created_at": "2026-06-16T17:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066940722625053165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            },
+            {
+              "end": 22,
+              "id": "2046240879695007744",
+              "start": 11,
+              "username": "44samasoup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066940722625053165",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066884478577066212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae @44samasoup 好清纯呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 895,
+          "like_count": 371,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "因为爱存在\n| 已成年| BD | OVERDOSE | BISEXUAL | 文青病｜语言是 中韩英|查成分互fo",
+        "id": "2053366838248259584",
+        "name": "酸性✝️",
+        "pinned_tweet_id": "2057485786535313415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427639531638786/4bR3vvpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 207,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:54:37.000Z",
+        "description": "我该如何走向明天",
+        "id": "2046240879695007744",
+        "name": "ミオ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046241273284333568/2aEE7b5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "44samasoup",
+        "verified": false
+      }
+    ]
+  }
+}

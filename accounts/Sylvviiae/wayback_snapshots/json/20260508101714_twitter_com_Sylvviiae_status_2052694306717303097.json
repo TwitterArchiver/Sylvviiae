@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2052655015194698092",
+    "created_at": "2026-05-08T10:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052694306717303097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1357176687318888448",
+          "start": 0,
+          "username": "FuckChina8964_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052694306717303097",
+    "in_reply_to_user_id": "1357176687318888448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052655015194698092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuckChina8964_ 老师tun药药可以吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2052655015194698092",
+        "created_at": "2026-05-08T10:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052694306717303097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1357176687318888448",
+              "start": 0,
+              "username": "FuckChina8964_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052694306717303097",
+        "in_reply_to_user_id": "1357176687318888448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052655015194698092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuckChina8964_ 老师tun药药可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357176687318888448",
+        "conversation_id": "2052655015194698092",
+        "created_at": "2026-05-08T07:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052655015194698092"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052655015194698092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19号跳楼20号就有人给我送花烧钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwiae",
+        "pinned_tweet_id": "2046748938527772777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 470,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1152
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T03:58:47.000Z",
+        "description": "/顺直/土逼/精分/残疾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaya383237",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaya383237",
+                "start": 0,
+                "url": "https://t.co/TfJ4SRiVn1"
+              }
+            ]
+          }
+        },
+        "id": "1357176687318888448",
+        "location": "骂我的下辈子还是中国人",
+        "name": "集美猪蹄改花刀十三刀没出血",
+        "pinned_tweet_id": "2044412599518019682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796513060435496961/0u01y7cZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 398,
+          "like_count": 2077,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/TfJ4SRiVn1",
+        "username": "FuckChina8964_",
+        "verified": false
+      }
+    ]
+  }
+}

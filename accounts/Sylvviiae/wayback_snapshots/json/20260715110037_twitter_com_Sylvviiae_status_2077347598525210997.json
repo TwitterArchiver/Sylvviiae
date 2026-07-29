@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077347587523497984",
+        "3_2077347587510906880",
+        "3_2077347587510996992"
+      ]
+    },
+    "author_id": "1902217890738401281",
+    "conversation_id": "2077347598525210997",
+    "created_at": "2026-07-15T11:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T12:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077347598525210997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8indy3quRb",
+          "end": 44,
+          "expanded_url": "https://x.com/Sylvviiae/status/2077347598525210997/photo/1",
+          "media_key": "3_2077347587523497984",
+          "start": 21,
+          "url": "https://t.co/8indy3quRb"
+        },
+        {
+          "display_url": "pic.x.com/8indy3quRb",
+          "end": 44,
+          "expanded_url": "https://x.com/Sylvviiae/status/2077347598525210997/photo/1",
+          "media_key": "3_2077347587510906880",
+          "start": 21,
+          "url": "https://t.co/8indy3quRb"
+        },
+        {
+          "display_url": "pic.x.com/8indy3quRb",
+          "end": 44,
+          "expanded_url": "https://x.com/Sylvviiae/status/2077347598525210997/photo/1",
+          "media_key": "3_2077347587510996992",
+          "start": 21,
+          "url": "https://t.co/8indy3quRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077347598525210997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「妳有這個膽量的話，或許早就輕鬆了吧？」 https://t.co/8indy3quRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077347587523497984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ4n-VaUAATx34.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077347587510906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ4n-SaMAAfsX9.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077347587510996992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQ4n-SbkAAT_oM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077347587523497984",
+            "3_2077347587510906880",
+            "3_2077347587510996992"
+          ]
+        },
+        "author_id": "1902217890738401281",
+        "conversation_id": "2077347598525210997",
+        "created_at": "2026-07-15T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077347598525210997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8indy3quRb",
+              "end": 44,
+              "expanded_url": "https://x.com/Sylvviiae/status/2077347598525210997/photo/1",
+              "media_key": "3_2077347587523497984",
+              "start": 21,
+              "url": "https://t.co/8indy3quRb"
+            },
+            {
+              "display_url": "pic.x.com/8indy3quRb",
+              "end": 44,
+              "expanded_url": "https://x.com/Sylvviiae/status/2077347598525210997/photo/1",
+              "media_key": "3_2077347587510906880",
+              "start": 21,
+              "url": "https://t.co/8indy3quRb"
+            },
+            {
+              "display_url": "pic.x.com/8indy3quRb",
+              "end": 44,
+              "expanded_url": "https://x.com/Sylvviiae/status/2077347598525210997/photo/1",
+              "media_key": "3_2077347587510996992",
+              "start": 21,
+              "url": "https://t.co/8indy3quRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077347598525210997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「妳有這個膽量的話，或許早就輕鬆了吧？」 https://t.co/8indy3quRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 922,
+          "like_count": 433,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      }
+    ]
+  }
+}

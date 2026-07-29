@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2075367513555435665",
+    "created_at": "2026-07-11T07:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075848152394207480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759112458491342849",
+          "start": 0,
+          "username": "YeeOyo88024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075848152394207480",
+    "in_reply_to_user_id": "1759112458491342849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075843851005424122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeeOyo88024 这么具体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2075367513555435665",
+        "created_at": "2026-07-11T07:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075848152394207480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759112458491342849",
+              "start": 0,
+              "username": "YeeOyo88024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075848152394207480",
+        "in_reply_to_user_id": "1759112458491342849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075843851005424122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeeOyo88024 这么具体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759112458491342849",
+        "conversation_id": "2075367513555435665",
+        "created_at": "2026-07-11T07:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075843851005424122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075843851005424122",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075367513555435665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae 我出07.21块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 890,
+          "like_count": 417,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-18T07:08:15.000Z",
+        "description": "请输入文本",
+        "id": "1759112458491342849",
+        "location": "404notfound",
+        "name": "yee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943960260311756801/wccfE51I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 88,
+          "like_count": 1068,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1113
+        },
+        "url": "",
+        "username": "YeeOyo88024",
+        "verified": false
+      }
+    ]
+  }
+}

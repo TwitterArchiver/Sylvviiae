@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2073703511393759365",
+    "created_at": "2026-07-05T14:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073769691840135269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1923100693944299520",
+          "start": 0,
+          "username": "MoYoHe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073769691840135269",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073703861060305269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoYoHe_ 对于老师来讲好处是能在一时冲动下享受权利的滋味，至于别的就以后再甩锅呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2073703511393759365",
+        "created_at": "2026-07-05T14:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073769691840135269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073769691840135269",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073703861060305269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 对于老师来讲好处是能在一时冲动下享受权利的滋味，至于别的就以后再甩锅呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073703511393759365",
+        "created_at": "2026-07-05T09:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073703861060305269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073703861060305269",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073703511393759365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类自尊心都很强，我是真不想明白这种动不动扇人的行为对教导学生有什么好处，除了让学生不乐意继续学习以外有任何帮助吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 896,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1597
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 108,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2072531399052251386",
+    "created_at": "2026-07-02T04:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072531399052251386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1311911312708915200",
+          "start": 3,
+          "username": "mongdziao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072531399052251386",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072531297592135699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mongdziao: WARNING:\nOxyContin is an opioid agonist and a Schedule II controlled substance with an abuse liability similar to morphine.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Oxy™morons",
+        "height": 2048,
+        "media_key": "3_2072530654873690112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMbpl3aoAAcSC5.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2072531399052251386",
+        "created_at": "2026-07-02T04:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072531399052251386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1311911312708915200",
+              "start": 3,
+              "username": "mongdziao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072531399052251386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072531297592135699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mongdziao: WARNING:\nOxyContin is an opioid agonist and a Schedule II controlled substance with an abuse liability similar to morphine.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072530654873690112"
+          ]
+        },
+        "author_id": "1311911312708915200",
+        "conversation_id": "2072531297592135699",
+        "created_at": "2026-07-02T04:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:59:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072530663908270478",
+          "2072531297592135699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YBqPY07XEu",
+              "end": 302,
+              "expanded_url": "https://x.com/mongdziao/status/2072531297592135699/photo/1",
+              "media_key": "3_2072530654873690112",
+              "start": 279,
+              "url": "https://t.co/YBqPY07XEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072531297592135699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "WARNING:\nOxyContin is an opioid agonist and a Schedule II controlled substance with an abuse liability similar to morphine.\nOxycodone can be abused in a manner similar to other opioid agonists, legal or illicit. This should be considered when prescribing or dispensing OxyContin in situations where the physician or pharmacist is concerned about an increased risk of misuse, abuse, or diversion.\nOxyContin Tablets are a controlled-release oral formulation of oxycodone hydrochloride indicated for the management of moderate to severe pain when a continuous, around-the-clock analgesic is needed for an extended period of time.\nOxyContin Tablets are NOT intended for use as a prn analgesic."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "WARNING:\nOxyContin is an opioid agonist and a Schedule II controlled substance with an abuse liability similar to morphine.\nOxycodone can be abused in a manner similar to other opioid agonists, legal or illicit. This should be considered when prescribing or dispensing OxyContin https://t.co/YBqPY07XEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 888,
+          "like_count": 389,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1582
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T06:10:27.000Z",
+        "description": "蒸煮 @nilshiro\n是迷幻小蘑菇｜賤婊子也想Tikkun Olam\nMasorti Judaism ✡︎\n@noadiahmeeden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "nilshiro"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "noadiahmeeden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noadiah.com",
+                "end": 23,
+                "expanded_url": "http://noadiah.com",
+                "start": 0,
+                "url": "https://t.co/OmX5q4YLMw"
+              }
+            ]
+          }
+        },
+        "id": "1311911312708915200",
+        "location": "זײַדנער פֿאָדעם",
+        "name": "Noadiah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945841993591980032/pFvRGvBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 328,
+          "like_count": 11394,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/OmX5q4YLMw",
+        "username": "mongdziao",
+        "verified": true
+      }
+    ]
+  }
+}

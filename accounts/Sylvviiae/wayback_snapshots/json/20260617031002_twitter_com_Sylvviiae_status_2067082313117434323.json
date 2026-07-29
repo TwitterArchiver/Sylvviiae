@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2066884478577066212",
+    "created_at": "2026-06-17T03:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067082313117434323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039205000727896065",
+          "start": 0,
+          "username": "clarisita_483"
+        },
+        {
+          "end": 26,
+          "id": "2046240879695007744",
+          "start": 15,
+          "username": "44samasoup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067082313117434323",
+    "in_reply_to_user_id": "2039205000727896065",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066936785741955164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clarisita_483 @44samasoup 🥺🥺🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2066884478577066212",
+        "created_at": "2026-06-17T03:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067082313117434323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039205000727896065",
+              "start": 0,
+              "username": "clarisita_483"
+            },
+            {
+              "end": 26,
+              "id": "2046240879695007744",
+              "start": 15,
+              "username": "44samasoup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067082313117434323",
+        "in_reply_to_user_id": "2039205000727896065",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066936785741955164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clarisita_483 @44samasoup 🥺🥺🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039205000727896065",
+        "conversation_id": "2066884478577066212",
+        "created_at": "2026-06-16T17:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066936785741955164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            },
+            {
+              "end": 22,
+              "id": "2046240879695007744",
+              "start": 11,
+              "username": "44samasoup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066936785741955164",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066884478577066212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae @44samasoup stunninggggggggggg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2049317915904913746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 895,
+          "like_count": 371,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1564
+        },
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T04:56:02.000Z",
+        "description": "actions are more powerful than words for those who didn't have chance to be represented",
+        "id": "2039205000727896065",
+        "location": "They/She 💛🤍💜🖤 Ella",
+        "name": "clarisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055833245342658560/4qyw641e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 391,
+          "like_count": 6277,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 947
+        },
+        "username": "clarisita_483",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:54:37.000Z",
+        "description": "我该如何走向明天",
+        "id": "2046240879695007744",
+        "name": "ミオ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046241273284333568/2aEE7b5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "44samasoup",
+        "verified": false
+      }
+    ]
+  }
+}

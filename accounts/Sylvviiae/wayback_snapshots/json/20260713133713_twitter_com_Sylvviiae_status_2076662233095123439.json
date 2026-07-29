@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2076630902202138794",
+    "created_at": "2026-07-13T13:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076662233095123439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039205000727896065",
+          "start": 0,
+          "username": "clarisita_483"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076662233095123439",
+    "in_reply_to_user_id": "2039205000727896065",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076649121784455367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clarisita_483 Babbeee"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2076630902202138794",
+        "created_at": "2026-07-13T13:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076662233095123439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039205000727896065",
+              "start": 0,
+              "username": "clarisita_483"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076662233095123439",
+        "in_reply_to_user_id": "2039205000727896065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076649121784455367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clarisita_483 Babbeee"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039205000727896065",
+        "conversation_id": "2076630902202138794",
+        "created_at": "2026-07-13T12:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076649121784455367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902217890738401281",
+              "start": 0,
+              "username": "Sylvviiae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076649121784455367",
+        "in_reply_to_user_id": "1902217890738401281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076630902202138794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvviiae u prettyyyyyyyyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 893,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1657
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T04:56:02.000Z",
+        "description": "Nuestro brío nos dio libertad",
+        "id": "2039205000727896065",
+        "location": "💛🤍💜🖤 ",
+        "name": "clarisa 🇵🇾🇦🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055833245342658560/4qyw641e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 350,
+          "like_count": 6954,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "clarisita_483",
+        "verified": false
+      }
+    ]
+  }
+}
