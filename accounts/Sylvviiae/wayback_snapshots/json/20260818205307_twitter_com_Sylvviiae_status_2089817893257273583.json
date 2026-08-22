@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2089635446762672261",
+    "created_at": "2026-08-18T20:53:07.000Z",
+    "display_text_range": [
+      25,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T21:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089817893257273583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        },
+        {
+          "end": 24,
+          "id": "1311911312708915200",
+          "start": 14,
+          "username": "mongdziao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089817893257273583",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089798910135169042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 @mongdziao 这么厉害"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2089798910135169042].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2089798910135169042",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2089798910135169042"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2089635446762672261",
+        "created_at": "2026-08-18T20:53:07.000Z",
+        "display_text_range": [
+          25,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089817893257273583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            },
+            {
+              "end": 24,
+              "id": "1311911312708915200",
+              "start": 14,
+              "username": "mongdziao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089817893257273583",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089798910135169042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 @mongdziao 这么厉害"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089817893257273583",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902217890738401281/1784272936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 937,
+          "like_count": 492,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1799
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 54kg |北京昌平🇨🇳| 主要繁體🇹🇼 簡體🉑 |是mtx喵|日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 |留長髮中| 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/BZwpbRVKk6"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2087401271351292085",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1922,
+          "like_count": 43657,
+          "listed_count": 5,
+          "media_count": 603,
+          "tweet_count": 9756
+        },
+        "url": "https://t.co/BZwpbRVKk6",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-02T06:10:27.000Z",
+        "description": "蒸煮 @nilshiro\n是迷幻小蘑菇｜賤婊子也想Tikkun Olam\nMasorti Judaism ✡︎\n@noadiahmeeden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "nilshiro"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "noadiahmeeden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noadiah.com",
+                "end": 23,
+                "expanded_url": "http://noadiah.com",
+                "start": 0,
+                "url": "https://t.co/a8KQtPChrK"
+              }
+            ]
+          }
+        },
+        "id": "1311911312708915200",
+        "is_identity_verified": false,
+        "location": "זײַדנער פֿאָדעם",
+        "most_recent_tweet_id": "2089782437312401461",
+        "name": "שבקתני",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311911312708915200/1713073758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945841993591980032/pFvRGvBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 349,
+          "like_count": 11699,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/a8KQtPChrK",
+        "username": "mongdziao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

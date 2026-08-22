@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2084877942686130333",
+    "created_at": "2026-08-07T01:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085535474387742859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2075121402022424576",
+          "start": 0,
+          "username": "Sowlbld"
+        },
+        {
+          "end": 18,
+          "id": "1713440184099045376",
+          "start": 9,
+          "username": "a1123213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085535474387742859",
+    "in_reply_to_user_id": "2075121402022424576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085390606403346598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sowlbld @a1123213 求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2084877942686130333",
+        "created_at": "2026-08-07T01:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085535474387742859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2075121402022424576",
+              "start": 0,
+              "username": "Sowlbld"
+            },
+            {
+              "end": 18,
+              "id": "1713440184099045376",
+              "start": 9,
+              "username": "a1123213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085535474387742859",
+        "in_reply_to_user_id": "2075121402022424576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085390606403346598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sowlbld @a1123213 求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075121402022424576",
+        "conversation_id": "2084877942686130333",
+        "created_at": "2026-08-06T15:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085390606403346598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713440184099045376",
+              "start": 0,
+              "username": "a1123213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085390606403346598",
+        "in_reply_to_user_id": "1713440184099045376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 43146,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 226,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084877942686130333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1123213 我有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 940,
+          "like_count": 470,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1779
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-09T07:35:18.000Z",
+        "description": "",
+        "id": "2075121402022424576",
+        "name": "Gravestone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075176135252721664/NS1UGUWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 169,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Sowlbld",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-15T06:22:37.000Z",
+        "description": "",
+        "id": "1713440184099045376",
+        "name": "ghjk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706981472665600/9UDjwyxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 70,
+          "like_count": 4677,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "a1123213",
+        "verified": false
+      }
+    ]
+  }
+}

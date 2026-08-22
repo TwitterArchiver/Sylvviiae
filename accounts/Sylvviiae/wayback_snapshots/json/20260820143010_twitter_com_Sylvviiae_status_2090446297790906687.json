@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2090446297790906687",
+    "created_at": "2026-08-20T14:30:10.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090446297790906687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirawontmiss/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/kirawontmiss/status/2090287415034265688",
+          "start": 15,
+          "url": "https://t.co/o7iKBBKSQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090446297790906687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090287415034265688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我人生是如何被精神病毁掉的： https://t.co/o7iKBBKSQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11533,
+        "height": 656,
+        "media_key": "13_2090287391202242560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090287391202242560/img/tGZmBK0iPee-M_ON.jpg",
+        "public_metrics": {
+          "view_count": 907568
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090287391202242560/vid/avc1/320x384/7HpgrtjNjPpaBVMs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090287391202242560/vid/avc1/480x578/BkGnocP3q64-skup.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090287391202242560/vid/avc1/544x656/5K2NOiNtCBDy35x1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090287391202242560/pl/46YnCfotHtSavDCU.m3u8?v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2090446297790906687",
+        "created_at": "2026-08-20T14:30:10.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090446297790906687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirawontmiss/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/kirawontmiss/status/2090287415034265688",
+              "start": 15,
+              "url": "https://t.co/o7iKBBKSQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090446297790906687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090287415034265688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我人生是如何被精神病毁掉的： https://t.co/o7iKBBKSQm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090287391202242560"
+          ]
+        },
+        "author_id": "1471414739880189955",
+        "conversation_id": "2090287415034265688",
+        "created_at": "2026-08-20T03:58:50.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090287415034265688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kWhYGqrqBG",
+              "end": 41,
+              "expanded_url": "https://x.com/kirawontmiss/status/2090287415034265688/video/1",
+              "media_key": "13_2090287391202242560",
+              "start": 18,
+              "url": "https://t.co/kWhYGqrqBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090287415034265688",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2090287391202242560"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "Thats AI",
+            "suggestion_id": "2090355320308879705"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2894,
+          "impression_count": 1891441,
+          "like_count": 30928,
+          "quote_count": 456,
+          "reply_count": 1106,
+          "retweet_count": 1772
+        },
+        "reply_settings": "everyone",
+        "text": "we are so cooked😭 https://t.co/kWhYGqrqBG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090446297790906687",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902217890738401281/1784272936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 933,
+          "like_count": 495,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1804
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T09:40:12.000Z",
+        "description": "a self-proclaimed free thinker •    • Sponsored by @rainbetcom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "rainbetcom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kiradontmiss",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kiradontmiss",
+                "start": 0,
+                "url": "https://t.co/XBrjAFVZOC"
+              }
+            ]
+          }
+        },
+        "id": "1471414739880189955",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090331957657837573",
+        "name": "kira 👾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471414739880189955/1664469978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636443983990669326/xm-YehdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290451,
+          "following_count": 1577,
+          "like_count": 33839,
+          "listed_count": 4791,
+          "media_count": 12138,
+          "tweet_count": 28387
+        },
+        "url": "https://t.co/XBrjAFVZOC",
+        "username": "kirawontmiss",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
