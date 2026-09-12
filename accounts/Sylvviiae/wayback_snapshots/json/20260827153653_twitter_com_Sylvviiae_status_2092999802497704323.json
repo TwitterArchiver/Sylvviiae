@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902217890738401281",
+    "conversation_id": "2092999802497704323",
+    "created_at": "2026-08-27T15:36:53.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092999802497704323"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092999802497704323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "OK美国人 我跟你们讲 我不跟你们争了 我前两年一直在紫砂od 我的肝肾系统早就斗不过你们工业糖精了 你们放了我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902217890738401281",
+        "conversation_id": "2092999802497704323",
+        "created_at": "2026-08-27T15:36:53.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092999802497704323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092999802497704323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OK美国人 我跟你们讲 我不跟你们争了 我前两年一直在紫砂od 我的肝肾系统早就斗不过你们工业糖精了 你们放了我吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-19T04:38:16.000Z",
+        "description": "bilingual, bisexual, bipolar, and bpd\n有fo就回，请来找我聊天(ifb and dms open)\n该小众文艺b想走近你的世界看一看\nTrying my best to be interesting lest I be jilted.",
+        "id": "1902217890738401281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092999802497704323",
+        "name": "Sylwia",
+        "pinned_tweet_id": "2075321774791971305",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902217890738401281/1784272936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023853936030216193/teTeCxB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 923,
+          "like_count": 501,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1806
+        },
+        "url": "",
+        "username": "Sylvviiae",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
